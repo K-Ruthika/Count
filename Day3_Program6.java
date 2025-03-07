@@ -9,7 +9,7 @@ public class Day3_Program6 {
 		int sum1=0;
 		int sum2=0;
 		for(int i=0; i<n; i++) {
-			for()
+			System.out.print(n);
 		}
 
 	}
